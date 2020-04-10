@@ -4,7 +4,9 @@
 ## Final project result
 
 <center>
-[![Sprider](http://img.youtube.com/vi/5hAmD499sJs/0.jpg)](http://www.youtube.com/watch?v=5hAmD499sJs "Spider")
+
+[![Sprider](http://img.youtube.com/vi/5hAmD499sJs/0.jpg)](http://www.youtube.com/watch?v=5hAmD499sJs
+  
 </center>
 
 ## Requirements
@@ -75,5 +77,5 @@ Target: armv7-unknown-linux-gnueabihf
 
 ## This project updated the following libraries
 
-- [GitHub - SwiftyPCA9685](https://github.com/ccarnino/SwiftyPCA9685) - @ccarnino
-- [GitHub - SMBus-swift](https://github.com/Sephiroth87/SMBus-swift) - @Sephiroth87
+- [GitHub - SwiftyPCA9685](https://github.com/ccarnino/SwiftyPCA9685) - [@ccarnino](https://github.com/ccarnino)
+- [GitHub - SMBus-swift](https://github.com/Sephiroth87/SMBus-swift) - [@Sephiroth87](https://github.com/Sephiroth87)

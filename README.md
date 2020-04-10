@@ -3,11 +3,11 @@
 
 ## Final project result
 
-<center>
-
-[![Sprider](http://img.youtube.com/vi/5hAmD499sJs/0.jpg)](http://www.youtube.com/watch?v=5hAmD499sJs
-  
-</center>
+<p><center
+[![Sprider](http://img.youtube.com/vi/5hAmD499sJs/0.jpg)]
+           
+           
+</center></p>
 
 ## Requirements
 

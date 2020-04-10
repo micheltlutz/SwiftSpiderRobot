@@ -4,9 +4,8 @@
 ## Final project result
 
 <p><center
-[![Sprider](http://img.youtube.com/vi/5hAmD499sJs/0.jpg)]
-           
-           
+
+[![Sprider](http://img.youtube.com/vi/5hAmD499sJs/0.jpg)](http://www.youtube.com/watch?v=5hAmD499sJs "Spider")
 </center></p>
 
 ## Requirements

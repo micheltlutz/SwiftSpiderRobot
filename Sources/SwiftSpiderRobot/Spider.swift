@@ -14,7 +14,7 @@ import Foundation
 let SERVOMIN = 125
 let SERVOMAX = 575
 
-final class Quadruped {
+final class Spider {
     private let busNumber: Int = 1
     private var module: PCA9685Module
 
